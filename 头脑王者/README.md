@@ -57,7 +57,7 @@ Windows下，在<mongo_install_location>\bin目录下使用mongod命令打开Mon
 * 点击“to OnBeforeResponse”
 * 粘贴以上代码
 
-![截图1]('./pics/screenshot1.png')
+![截图1]('pics/screenshot1.png')
 
 配置成功后，Fiddler应该能够完全接受你的手机的所有数据请求。
 
@@ -69,7 +69,7 @@ Windows下，在<mongo_install_location>\bin目录下使用mongod命令打开Mon
 
 如图：
 
-![截图2]('./pics/screenshot2.png')
+![截图2]('pics/screenshot2.png')
 
 ## 5. 开始答题
 
